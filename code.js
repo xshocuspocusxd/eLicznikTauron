@@ -1,4 +1,3 @@
-// 2023.09.05
 // Łukasz Podgórski admin@myeye.pl 
 // https://github.com/xshocuspocusxd/eLicznikTauron
 // Kod uruchamiamy z konsoli developerskiej będąc na stronie: https://elicznik.tauron-dystrybucja.pl/odczyty
