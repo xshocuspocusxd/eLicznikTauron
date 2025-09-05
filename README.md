@@ -158,13 +158,13 @@ Ten projekt jest dostępny na licencji MIT. Zobacz plik LICENSE dla więcej szcz
 ## Kontakt
 
 Jeśli masz pytania lub problemy:
-- **Email:** admin@myeye.pl
+- **Email:** kontakt@lukaszpodgorski.pl
 - **GitHub:** [xshocuspocusxd](https://github.com/xshocuspocusxd)
 - **Issues:** [GitHub Issues](https://github.com/xshocuspocusxd/eLicznikTauron/issues)
 
 ## Changelog
 
-### v2.0.0 (2024)
+### v2.0.0 (09.2025)
 - ✨ Kompletna refaktoryzacja kodu
 - ✨ Dodana funkcja sprawdzania aktualnego bilansu
 - ✨ Ulepszone zarządzanie błędami

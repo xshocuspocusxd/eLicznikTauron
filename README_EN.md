@@ -158,13 +158,13 @@ This project is available under the MIT License. See LICENSE file for more detai
 ## Contact
 
 If you have questions or problems:
-- **Email:** admin@myeye.pl
+- **Email:** kontakt@lukaszpodgorski.pl
 - **GitHub:** [xshocuspocusxd](https://github.com/xshocuspocusxd)
 - **Issues:** [GitHub Issues](https://github.com/xshocuspocusxd/eLicznikTauron/issues)
 
 ## Changelog
 
-### v2.0.0 (2024)
+### v2.0.0 (09.2025)
 - ✨ Complete code refactoring
 - ✨ Added current balance checking function
 - ✨ Improved error handling
